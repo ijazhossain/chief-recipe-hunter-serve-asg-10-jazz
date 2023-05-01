@@ -1,0 +1,446 @@
+[
+    {
+        "_id": "645000facd49aeecff93ee61",
+        "index": 0,
+        "chef_name": "Lucile Conley",
+        "chef_pic": "https://images.unsplash.com/photo-1625631980634-397b9e9a73f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "experience": "6 years",
+        "recipe_quantity": "5",
+        "likes": "352",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Ina Garten's Perfect Roast Chicken",
+                "ingredients": [
+                    " Whole chicken",
+                    "Salt",
+                    "Black pepper",
+                    "Garlic",
+                    "Lemon",
+                    "Thyme",
+                    "Butter"
+                ],
+                "cooking_methods": [
+                    "Preheat oven to 425°F (220°C).",
+                    "Season chicken with salt and pepper, stuff with lemon and thyme.",
+                    "Truss chicken and place in roasting pan.",
+                    "Brush with melted butter or olive oil.",
+                    "Roast for 1 hour and 15 minutes or until juices run clear when pierced. Rest before carving."
+                ],
+                "ratings": "4.5"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Bobby Flay's Grilled Skirt Steak with Chimichurri Sauce",
+                "ingredients": [
+                    "Skirt steak",
+                    "Salt",
+                    "Black pepper",
+                    "Olive oil",
+                    "Garlic",
+                    "Parsley",
+                    "Red wine vinegar"
+                ],
+                "cooking_methods": [
+                    "Grilling",
+                    "Resting",
+                    "Slicing against the grain",
+                    "Preparing chimichurri sauce",
+                    "Drizzling chimichurri sauce over steak"
+                ],
+                "ratings": "4.0"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Rachel Ray's 30-Minute Beef Chili",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Garlic",
+                    "Chili powder",
+                    "Cumin",
+                    "Tomato sauce",
+                    "Kidney beans"
+                ],
+                "cooking_methods": [
+                    "Browning ground beef",
+                    "Sautéing onions and garlic",
+                    "Adding spices and tomato sauce",
+                    "Simmering chili",
+                    "Serving with toppings such as cheese, sour cream, and scallions"
+                ],
+                "ratings": "4.5"
+            }
+        ]
+    },
+    {
+        "_id": "645000fae71cfeea89d44fe3",
+        "index": 1,
+        "chef_name": "William Ferrell",
+        "chef_pic": "https://plus.unsplash.com/premium_photo-1663011717609-fbbabf6d6513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "experience": "8 years",
+        "recipe_quantity": "8",
+        "likes": "522",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Emeril Lagasse's Shrimp and Grits",
+                "ingredients": [
+                    "Shrimp",
+                    "Grits",
+                    "Butter",
+                    "Garlic",
+                    "Chicken broth",
+                    "Heavy cream",
+                    "Cheddar cheese"
+                ],
+                "cooking_methods": [
+                    "Preparing grits",
+                    "Sautéing shrimp in garlic and butter",
+                    "Making a sauce with chicken broth and cream",
+                    "Combining shrimp and sauce with grits",
+                    "Garnishing with cheddar cheese and chopped scallions"
+                ],
+                "ratings": "4.5"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Martha Stewart's Macaroni and Cheese",
+                "ingredients": [
+                    "Macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Bread crumbs",
+                    "Nutmeg"
+                ],
+                "cooking_methods": [
+                    "Boiling macaroni",
+                    "Making a béchamel sauce with butter, flour, and milk",
+                    "Adding cheese and nutmeg to the sauce",
+                    "Mixing macaroni with cheese sauce",
+                    "Topping with breadcrumbs and baking in the oven"
+                ],
+                "ratings": "4.0"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Alton Brown's Chewy Chocolate Chip Cookies",
+                "ingredients": [
+                    "Flour",
+                    "Baking soda",
+                    "Salt",
+                    "Butter",
+                    "Brown sugar",
+                    "White sugar",
+                    "Chocolate chips"
+                ],
+                "cooking_methods": [
+                    "Creaming butter and sugars together",
+                    "Mixing in eggs and vanilla extract",
+                    "Combining flour, baking soda, and salt",
+                    "Adding chocolate chips to the dough",
+                    "Baking until golden brown"
+                ],
+                "ratings": "4.5"
+            }
+        ]
+    },
+    {
+        "_id": "645000fa3242cac0725708db",
+        "index": 2,
+        "chef_name": "King Cruz",
+        "chef_pic": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+        "experience": "5 years",
+        "recipe_quantity": "5",
+        "likes": "237",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Guy Fieri's Ultimate Barbecue Brisket",
+                "ingredients": [
+                    "Beef brisket",
+                    "Salt",
+                    "Black pepper",
+                    "Paprika",
+                    "Brown sugar",
+                    "Mustard powder",
+                    "Apple cider vinegar"
+                ],
+                "cooking_methods": [
+                    "Rubbing brisket with spice mixture",
+                    "Slow-smoking over wood chips",
+                    "Mopping brisket with a vinegar-based sauce",
+                    "Wrapping in foil and continuing to smoke",
+                    "Resting before slicing and serving"
+                ],
+                "ratings": "4.0"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Giada De Laurentiis' Lemon Spaghetti",
+                "ingredients": [
+                    "Spaghetti",
+                    "Garlic",
+                    "Lemon",
+                    "Olive oil",
+                    "Parmesan cheese",
+                    "Salt",
+                    "Black pepper"
+                ],
+                "cooking_methods": [
+                    "Boiling spaghetti",
+                    "Sautéing garlic in olive oil",
+                    "Adding lemon zest and juice to the garlic mixture",
+                    "Tossing spaghetti with lemon-garlic sauce",
+                    "Garnishing with Parmesan cheese and black pepper"
+                ],
+                "ratings": "4,5"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Tyler Florence's Ultimate Fried Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Black pepper",
+                    "Paprika",
+                    "Garlic powder"
+                ],
+                "cooking_methods": [
+                    "Marinating chicken in buttermilk",
+                    "Dredging chicken in seasoned flour mixture",
+                    "Frying chicken until golden brown",
+                    "Resting on a wire rack",
+                    "Serving with hot sauce and pickles"
+                ],
+                "ratings": "4.0"
+            }
+        ]
+    },
+    {
+        "_id": "645000fa11257ea3194fc924",
+        "index": 3,
+        "chef_name": "Natalie Hensley",
+        "chef_pic": "https://images.unsplash.com/photo-1612624628757-4f05bc6f690c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        "experience": "7 years",
+        "recipe_quantity": "7",
+        "likes": "476",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Wolfgang Puck's Smoked Salmon Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Crème fraîche",
+                    "Smoked salmon",
+                    "Red onion",
+                    "Capers",
+                    "Lemon",
+                    "Dill"
+                ],
+                "cooking_methods": [
+                    "Rolling out pizza dough",
+                    "Spreading crème fraîche on the dough",
+                    "Adding smoked salmon and thinly sliced red onion",
+                    "Baking pizza in a hot oven",
+                    "Topping with capers, dill, and lemon zest"
+                ],
+                "ratings": "4.5"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Paula Deen's Southern Fried Catfish",
+                "ingredients": [
+                    "Catfish",
+                    "Cornmeal",
+                    "Flour",
+                    "Salt",
+                    "Black pepper",
+                    "Garlic powder",
+                    "Cayenne pepper"
+                ],
+                "cooking_methods": [
+                    "Dredging catfish in seasoned cornmeal mixture",
+                    "Frying catfish in hot oil",
+                    "Draining on paper towels",
+                    "Serving with tartar sauce and lemon wedges",
+                    "Garnishing with chopped parsley"
+                ],
+                "ratings": "4.0"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Rachael Ray's Three Bean and Beef Chili",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Bell pepper",
+                    "Chili powder",
+                    "Cumin",
+                    "Kidney beans",
+                    "Tomatoes"
+                ],
+                "cooking_methods": [
+                    "Browning ground beef",
+                    "Sautéing onions and bell peppers",
+                    "Adding spices, beans, and tomatoes",
+                    "Simmering chili",
+                    "Serving with toppings such as cheese, sour cream, and scallions"
+                ],
+                "ratings": ""
+            }
+        ]
+    },
+    {
+        "_id": "645000fa1763bd9b1069e75b",
+        "index": 4,
+        "chef_name": "Bean Juarez",
+        "chef_pic": "https://images.unsplash.com/photo-1669764685285-1a79f27144c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "experience": "8 years",
+        "recipe_quantity": "9",
+        "likes": "212",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Mario Batali's Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Pancetta",
+                    "Garlic",
+                    "Egg yolks",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cooking_methods": [
+                    "Boiling spaghetti",
+                    "Cooking pancetta until crispy",
+                    "Whisking together egg yolks, Parmesan cheese, and black pepper",
+                    "Tossing spaghetti with pancetta and egg mixture",
+                    "Garnishing with additional Parmesan cheese and black pepper"
+                ],
+                "ratings": "4.0"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Michael Symon's Classic Chicken Pot Pie",
+                "ingredients": [
+                    "Chicken",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Carrots",
+                    "Peas",
+                    "Puff pastry"
+                ],
+                "cooking_methods": [
+                    "Making a roux with butter and flour",
+                    "Adding chicken broth and milk to the roux to make a creamy sauce",
+                    "Cooking chicken and vegetables in the sauce",
+                    "Assembling pot pie with filling and puff pastry crust",
+                    "Baking until golden brown"
+                ],
+                "ratings": "4.5"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Ina Garten's Lobster Mac and Cheese",
+                "ingredients": [
+                    "Macaroni",
+                    "Lobster meat",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Gruyere cheese",
+                    "Parmesan cheese"
+                ],
+                "cooking_methods": [
+                    "Sautéing bacon in a Dutch oven",
+                    "Browning beef in bacon fat",
+                    "Adding vegetables and red wine to the beef",
+                    "Braising beef in the oven",
+                    "Serving over egg noodles or mashed potatoes"
+                ],
+                "ratings": "3.5"
+            }
+        ]
+    },
+    {
+        "_id": "645000fa01dae376090a35b5",
+        "index": 5,
+        "chef_name": "Alexandria Gonzales",
+        "chef_pic": "https://plus.unsplash.com/premium_photo-1661335322969-1c6524fd810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "experience": "6 years",
+        "recipe_quantity": "3",
+        "likes": "158",
+        "recipe_info": [
+            {
+                "id": 0,
+                "recipe_name": "Bobby Flay's Grilled Chicken with Mango-Avocado Salsas",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Salt",
+                    "Black pepper",
+                    "Olive oil",
+                    "Mango",
+                    "Avocado",
+                    "Lime"
+                ],
+                "cooking_methods": [
+                    "Steaming or boiling lobsters until cooked",
+                    "Removing lobster meat from the shell",
+                    "Mixing lobster meat with mayonnaise, celery, and herbs",
+                    "Toasting hot dog buns",
+                    "Stuffing buns with lobster salad"
+                ],
+                "ratings": "3.0"
+            },
+            {
+                "id": 1,
+                "recipe_name": "Emeril Lagasse's Creole Jambalaya",
+                "ingredients": [
+                    "Chicken",
+                    "Andouille sausage",
+                    "Onion",
+                    "Bell pepper",
+                    "Rice",
+                    "Tomatoes",
+                    "Chicken broth"
+                ],
+                "cooking_methods": [
+                    "Making a dough with flour, sugar, baking powder, and milk",
+                    "Melting butter in a baking dish",
+                    "Pouring dough over melted butter",
+                    "Adding peaches and sugar to the dish",
+                    "Baking until golden brown"
+                ],
+                "ratings": "4.5"
+            },
+            {
+                "id": 2,
+                "recipe_name": "Martha Stewart's Classic Cheesecake",
+                "ingredients": [
+                    "Graham crackers",
+                    "Butter",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Vanilla extract",
+                    "Sour cream"
+                ],
+                "cooking_methods": [
+                    "Slicing beef into thin strips",
+                    "Marinating beef in a mixture of soy sauce, Worcestershire sauce, and seasonings",
+                    "Drying beef in a dehydrator or low-temperature oven",
+                    "Testing for doneness by bending a strip of beef",
+                    "Storing beef jerky in an airtight container."
+                ],
+                "ratings": "4.0"
+            }
+        ]
+    }
+]
