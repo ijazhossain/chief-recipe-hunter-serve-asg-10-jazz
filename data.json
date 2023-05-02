@@ -2,11 +2,12 @@
     {
         "_id": "645000facd49aeecff93ee61",
         "index": 0,
-        "chef_name": "Lucile Conley",
+        "chef_name": "Gordon Ramsay",
         "chef_pic": "https://images.unsplash.com/photo-1625631980634-397b9e9a73f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "6 years",
         "recipe_quantity": "5",
         "likes": "352",
+        "description": "Originally from Scotland, Gordon Ramsay is a world-renowned chef and restaurateur with a fiery personality. He has earned numerous accolades for his cooking skills and has hosted several popular cooking shows, including Hell's Kitchen and MasterChef. Ramsay is known for his innovative approach to classic dishes and his uncompromising standards in the kitchen.",
         "recipe_info": [
             {
                 "id": 0,
@@ -76,11 +77,12 @@
     {
         "_id": "645000fae71cfeea89d44fe3",
         "index": 1,
-        "chef_name": "William Ferrell",
+        "chef_name": "Ina Garten",
         "chef_pic": "https://plus.unsplash.com/premium_photo-1663011717609-fbbabf6d6513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "8 years",
         "recipe_quantity": "8",
         "likes": "522",
+        "description": " Ina Garten is an American chef, author, and television personality. She is known for her simple yet elegant recipes and her focus on using fresh, high-quality ingredients. Garten has authored several cookbooks, including Barefoot Contessa at Home and Barefoot Contessa Back to Basics, and has hosted the popular cooking show Barefoot Contessa on the Food Network.",
         "recipe_info": [
             {
                 "id": 0,
@@ -150,11 +152,12 @@
     {
         "_id": "645000fa3242cac0725708db",
         "index": 2,
-        "chef_name": "King Cruz",
+        "chef_name": "Emeril Lagasse",
         "chef_pic": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
         "experience": "5 years",
         "recipe_quantity": "5",
         "likes": "237",
+        "description": " Emeril Lagasse is a celebrity chef and restaurateur who is known for his bold, spicy, and flavorful cooking style. He is the owner of several popular restaurants, including Emeril's New Orleans and Emeril's Delmonico, and has hosted several cooking shows, including Emeril Live and Essence of Emeril. Lagasse is also a best-selling cookbook author.",
         "recipe_info": [
             {
                 "id": 0,
@@ -224,11 +227,12 @@
     {
         "_id": "645000fa11257ea3194fc924",
         "index": 3,
-        "chef_name": "Natalie Hensley",
+        "chef_name": "Alice Waters",
         "chef_pic": "https://plus.unsplash.com/premium_photo-1664301164693-a54d0b3e6fab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "7 years",
         "recipe_quantity": "7",
         "likes": "476",
+        "description": "Alice Waters is a chef and restaurateur who is best known for her emphasis on using fresh, locally sourced, and seasonal ingredients. She is the founder of the legendary restaurant Chez Panisse in Berkeley, California, and is considered one of the pioneers of the farm-to-table movement. Waters has also authored several cookbooks, including The Art of Simple Food.",
         "recipe_info": [
             {
                 "id": 0,
@@ -298,11 +302,12 @@
     {
         "_id": "645000fa1763bd9b1069e75b",
         "index": 4,
-        "chef_name": "Bean Juarez",
+        "chef_name": "Bobby Flay",
         "chef_pic": "https://images.unsplash.com/photo-1669764685285-1a79f27144c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "8 years",
         "recipe_quantity": "9",
         "likes": "212",
+        "description": "Bobby Flay is a celebrity chef, restaurateur, and television personality who is known for his Southwestern-inspired cuisine. He is the owner of several popular restaurants, including Mesa Grill and Bobby's Burger Palace, and has hosted several cooking shows, including Throwdown! with Bobby Flay and Beat Bobby Flay. Flay is also a best-selling cookbook author.",
         "recipe_info": [
             {
                 "id": 0,
@@ -372,11 +377,12 @@
     {
         "_id": "645000fa01dae376090a35b5",
         "index": 5,
-        "chef_name": "Alexandria Gonzales",
+        "chef_name": "Rachael Ray",
         "chef_pic": "https://plus.unsplash.com/premium_photo-1661335322969-1c6524fd810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "6 years",
         "recipe_quantity": "3",
         "likes": "158",
+        "description": " Rachael Ray is a chef, author, and television personality who is known for her quick and easy recipes and her down-to-earth approach to cooking. She has authored several cookbooks, including 30-Minute Meals and Week in a Day, and has hosted several cooking shows, including 30 Minute Meals and The Rachael Ray Show. Ray is also a philanthropist and advocate for various charitable causes.",
         "recipe_info": [
             {
                 "id": 0,
