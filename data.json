@@ -17,9 +17,7 @@
                     "Salt",
                     "Black pepper",
                     "Garlic",
-                    "Lemon",
-                    "Thyme",
-                    "Butter"
+                    "Lemon"
                 ],
                 "cooking_methods": [
                     "Preheat oven to 425°F (220°C).",
@@ -92,9 +90,7 @@
                     "Grits",
                     "Butter",
                     "Garlic",
-                    "Chicken broth",
-                    "Heavy cream",
-                    "Cheddar cheese"
+                    "Chicken broth"
                 ],
                 "cooking_methods": [
                     "Preparing grits",
@@ -113,9 +109,7 @@
                     "Butter",
                     "Flour",
                     "Milk",
-                    "Cheddar cheese",
-                    "Bread crumbs",
-                    "Nutmeg"
+                    "Cheddar cheese"
                 ],
                 "cooking_methods": [
                     "Boiling macaroni",
@@ -134,9 +128,7 @@
                     "Baking soda",
                     "Salt",
                     "Butter",
-                    "Brown sugar",
-                    "White sugar",
-                    "Chocolate chips"
+                    "Brown sugar"
                 ],
                 "cooking_methods": [
                     "Creaming butter and sugars together",
@@ -167,9 +159,7 @@
                     "Salt",
                     "Black pepper",
                     "Paprika",
-                    "Brown sugar",
-                    "Mustard powder",
-                    "Apple cider vinegar"
+                    "Brown sugar"
                 ],
                 "cooking_methods": [
                     "Rubbing brisket with spice mixture",
@@ -188,9 +178,7 @@
                     "Garlic",
                     "Lemon",
                     "Olive oil",
-                    "Parmesan cheese",
-                    "Salt",
-                    "Black pepper"
+                    "Parmesan cheese"
                 ],
                 "cooking_methods": [
                     "Boiling spaghetti",
@@ -209,9 +197,7 @@
                     "Buttermilk",
                     "Flour",
                     "Salt",
-                    "Black pepper",
-                    "Paprika",
-                    "Garlic powder"
+                    "Black pepper"
                 ],
                 "cooking_methods": [
                     "Marinating chicken in buttermilk",
@@ -228,7 +214,7 @@
         "_id": "645000fa11257ea3194fc924",
         "index": 3,
         "chef_name": "Alice Waters",
-        "chef_pic": "https://plus.unsplash.com/premium_photo-1664301164693-a54d0b3e6fab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "chef_pic": "https://plus.unsplash.com/premium_photo-1677852417030-c835a3e1773c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "experience": "7 years",
         "recipe_quantity": "7",
         "likes": "476",
@@ -242,9 +228,7 @@
                     "Crème fraîche",
                     "Smoked salmon",
                     "Red onion",
-                    "Capers",
-                    "Lemon",
-                    "Dill"
+                    "Capers"
                 ],
                 "cooking_methods": [
                     "Rolling out pizza dough",
@@ -263,9 +247,7 @@
                     "Cornmeal",
                     "Flour",
                     "Salt",
-                    "Black pepper",
-                    "Garlic powder",
-                    "Cayenne pepper"
+                    "Black pepper"
                 ],
                 "cooking_methods": [
                     "Dredging catfish in seasoned cornmeal mixture",
@@ -284,9 +266,7 @@
                     "Onion",
                     "Bell pepper",
                     "Chili powder",
-                    "Cumin",
-                    "Kidney beans",
-                    "Tomatoes"
+                    "Cumin"
                 ],
                 "cooking_methods": [
                     "Browning ground beef",
@@ -317,9 +297,7 @@
                     "Pancetta",
                     "Garlic",
                     "Egg yolks",
-                    "Parmesan cheese",
-                    "Black pepper",
-                    "Salt"
+                    "Parmesan cheese"
                 ],
                 "cooking_methods": [
                     "Boiling spaghetti",
@@ -338,9 +316,7 @@
                     "Butter",
                     "Flour",
                     "Milk",
-                    "Carrots",
-                    "Peas",
-                    "Puff pastry"
+                    "Carrots"
                 ],
                 "cooking_methods": [
                     "Making a roux with butter and flour",
@@ -359,9 +335,7 @@
                     "Lobster meat",
                     "Butter",
                     "Flour",
-                    "Milk",
-                    "Gruyere cheese",
-                    "Parmesan cheese"
+                    "Milk"
                 ],
                 "cooking_methods": [
                     "Sautéing bacon in a Dutch oven",
@@ -392,9 +366,7 @@
                     "Salt",
                     "Black pepper",
                     "Olive oil",
-                    "Mango",
-                    "Avocado",
-                    "Lime"
+                    "Mango"
                 ],
                 "cooking_methods": [
                     "Steaming or boiling lobsters until cooked",
@@ -413,9 +385,7 @@
                     "Andouille sausage",
                     "Onion",
                     "Bell pepper",
-                    "Rice",
-                    "Tomatoes",
-                    "Chicken broth"
+                    "Rice"
                 ],
                 "cooking_methods": [
                     "Making a dough with flour, sugar, baking powder, and milk",
@@ -434,9 +404,7 @@
                     "Butter",
                     "Cream cheese",
                     "Sugar",
-                    "Eggs",
-                    "Vanilla extract",
-                    "Sour cream"
+                    "Eggs"
                 ],
                 "cooking_methods": [
                     "Slicing beef into thin strips",
