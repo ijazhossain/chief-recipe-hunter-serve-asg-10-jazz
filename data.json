@@ -47,7 +47,7 @@
                     "Preparing chimichurri sauce",
                     "Drizzling chimichurri sauce over steak"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             },
             {
                 "id": 2,
@@ -118,7 +118,7 @@
                     "Mixing macaroni with cheese sauce",
                     "Topping with breadcrumbs and baking in the oven"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             },
             {
                 "id": 2,
@@ -168,7 +168,7 @@
                     "Wrapping in foil and continuing to smoke",
                     "Resting before slicing and serving"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             },
             {
                 "id": 1,
@@ -206,7 +206,7 @@
                     "Resting on a wire rack",
                     "Serving with hot sauce and pickles"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             }
         ]
     },
@@ -256,7 +256,7 @@
                     "Serving with tartar sauce and lemon wedges",
                     "Garnishing with chopped parsley"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             },
             {
                 "id": 2,
@@ -306,7 +306,7 @@
                     "Tossing spaghetti with pancetta and egg mixture",
                     "Garnishing with additional Parmesan cheese and black pepper"
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             },
             {
                 "id": 1,
@@ -344,7 +344,7 @@
                     "Braising beef in the oven",
                     "Serving over egg noodles or mashed potatoes"
                 ],
-                "ratings": "3.5"
+                "ratings": "4.5"
             }
         ]
     },
@@ -375,7 +375,7 @@
                     "Toasting hot dog buns",
                     "Stuffing buns with lobster salad"
                 ],
-                "ratings": "3.0"
+                "ratings": "4.5"
             },
             {
                 "id": 1,
@@ -413,7 +413,7 @@
                     "Testing for doneness by bending a strip of beef",
                     "Storing beef jerky in an airtight container."
                 ],
-                "ratings": "4.0"
+                "ratings": "4.5"
             }
         ]
     }
